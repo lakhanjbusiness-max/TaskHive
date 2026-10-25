@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TaskHive.Api/TaskHive.Api.csproj" />
+  <Project Path="TaskHive.Application/TaskHive.Application.csproj" />
+  <Project Path="TaskHive.Domain/TaskHive.Domain.csproj" />
+  <Project Path="TaskHive.Infrastructure/TaskHive.Infrastructure.csproj" />
+</Solution>
